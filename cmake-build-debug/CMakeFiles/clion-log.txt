@@ -1,0 +1,4 @@
+E:\ZBQ_IT\clion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/ZBQ_IT/clion/bin/ninja/win/ninja.exe -G Ninja E:\ZBQ_IT\c_study
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/ZBQ_IT/c_study/cmake-build-debug
