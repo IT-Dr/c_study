@@ -1,8 +1,9 @@
 # ninja log v5
-478	868	6660086101777038	ZBQ_clionworkspace.exe	e86891ae4898f055
-1	181	6660093358935191	build.ninja	9696807a7635792b
+445	789	6660095269118520	ZBQ_clionworkspace.exe	791b3a91b47d1cc0
+1	181	6660105157282507	build.ninja	9696807a7635792b
 42	2158	6655166674505592	CMakeFiles/ZBQ_clionworkspace.dir/2000.cpp.obj	832b482e77d1c6ce
 8244	9249	6655166749970824	CMakeFiles/ZBQ_clionworkspace.dir/pat_b1020.cpp.obj	a172fa8ffee10ac4
+4	552	6660104918326713	CMakeFiles/ZBQ_clionworkspace.dir/2050.cpp.obj	619793c1046e7198
 40	2119	6660027519382637	CMakeFiles/ZBQ_clionworkspace.dir/2045.cpp.obj	fada9bcf3bf513cb
 53	2131	6655166674445742	CMakeFiles/ZBQ_clionworkspace.dir/2004.cpp.obj	de88a21e08c56e4e
 11	2191	6655166674276205	CMakeFiles/ZBQ_clionworkspace.dir/string3.cpp.obj	c1eaad213332a5c9
@@ -43,7 +44,7 @@
 6194	8257	6655166735268462	CMakeFiles/ZBQ_clionworkspace.dir/2027.cpp.obj	a7fd764bda30d622
 6238	8256	6655166734989214	CMakeFiles/ZBQ_clionworkspace.dir/2030.cpp.obj	cf35d7202691096
 6229	8255	6655166735238538	CMakeFiles/ZBQ_clionworkspace.dir/2029.cpp.obj	8aea444b16e1318e
-5	477	6660086097972087	CMakeFiles/ZBQ_clionworkspace.dir/2049.cpp.obj	f16c5988ae0bac76
+4	667	6660095045958693	CMakeFiles/ZBQ_clionworkspace.dir/2049.cpp.obj	f16c5988ae0bac76
 4717	6696	6655166719526790	CMakeFiles/ZBQ_clionworkspace.dir/2032.cpp.obj	78f838dc0f4d2b05
 6250	8229	6655166735068996	CMakeFiles/ZBQ_clionworkspace.dir/2033.cpp.obj	84ebc344038a1406
 8237	9250	6655166750200218	CMakeFiles/ZBQ_clionworkspace.dir/2034.cpp.obj	94de8b5eba81bda5
@@ -54,8 +55,5 @@
 5	1616	6660027514408168	CMakeFiles/ZBQ_clionworkspace.dir/2046.cpp.obj	ba10c647801c184
 18	785	6660065442440915	CMakeFiles/ZBQ_clionworkspace.dir/2047.cpp.obj	9596926935b84343
 18	541	6660085669677549	CMakeFiles/ZBQ_clionworkspace.dir/2048.cpp.obj	8202f9c71a3e987b
-18	663	6660095045918798	CMakeFiles/ZBQ_clionworkspace.dir/2050.cpp.obj	619793c1046e7198
-4	667	6660095045958693	CMakeFiles/ZBQ_clionworkspace.dir/2049.cpp.obj	f16c5988ae0bac76
-668	1122	6660095050430334	ZBQ_clionworkspace.exe	791b3a91b47d1cc0
-9	445	6660095265780377	CMakeFiles/ZBQ_clionworkspace.dir/2050.cpp.obj	619793c1046e7198
-445	789	6660095269118520	ZBQ_clionworkspace.exe	791b3a91b47d1cc0
+4	466	6660105206837097	CMakeFiles/ZBQ_clionworkspace.dir/test2.cpp.obj	84efe4d62113694d
+466	924	6660105211317075	ZBQ_clionworkspace.exe	d0a2e9824b808b49
