@@ -17,4 +17,5 @@ int main2039(){
             cout<<"NO"<<endl;
         }
     }
+    return 0;
 }
